@@ -1,0 +1,2 @@
+# FundamentalResearchMethod
+New Repo
